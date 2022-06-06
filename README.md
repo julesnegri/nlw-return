@@ -5,7 +5,7 @@
 <p align="center" margin-top="25px" >
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julesnegri/nlw-return?color=orange">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julesnegri/nlw-return?color=orange">
+  <img alt="GitHub language count" src="	https://img.shields.io/github/license/julesnegri/nlw-return?color=orange">
 
   <img alt="GitHub" src="https://img.shields.io/github/license/julesnegri/nlw-return?color=orange">
 </p>
